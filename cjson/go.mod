@@ -1,4 +1,4 @@
-module github.com/goplus/llpkg/cjson
+module github.com/NEKO-CwC/llpkgstore/cjson
 
 go 1.20
 
