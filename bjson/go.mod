@@ -1,4 +1,4 @@
-module github.com/NEKO-CwC/llpkgstore/cjson
+module github.com/NEKO-CwC/llpkgstore/bjson
 
 go 1.20
 
